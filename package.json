@@ -1,6 +1,6 @@
 {
   "name": "scss-tsx-bootstrap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bootstrap template for Sass, TypeScript, and React projects",
   "private": true,
   "keywords": [

@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# scss-tsx-bootstrap
+## Bootstrap template for Sass, TypeScript, and React projects
+### Build with Sass, TypeScript, and React
+
+This bootstrap adds Sass support to the [Create React App](https://github.com/facebook/create-react-app) TypeScript template.
 
 ## Available Scripts
 
